@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400001
-  secret: my_token
+  secret: my_token_normal
 
 gateway:
   ip: 192.168.0.2 # My Local IP
